@@ -1,6 +1,4 @@
-### PR Description
-
-What PR does?
+### What PR does?
 
 ### How to test the PR?
 
