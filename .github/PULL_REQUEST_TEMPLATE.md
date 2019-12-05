@@ -1,27 +1,9 @@
-**What does this PR do?**
+### What PR does?
 
-- xxx
+### How to test the PR?
 
-**Description of Task to be completed?**
+### Stories associated with PR
 
-- xxx
+[#0000](https://www.pivotaltracker.com/story/show/0000)
 
-**How should this be manually tested?**
-
-- xxx
-
-**Any background context you want to provide?**
-
-- xxx
-
-**What are the relevant pivotal tracker stories?**
-
-- [#0000](https://www.pivotaltracker.com/story/show/0000)
-
-**Screenshots (if appropriate)**
-
-- xxx
-
-**Questions:**
-
-- xxx
+### Screenshots if any
